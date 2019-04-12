@@ -1,0 +1,13 @@
+@import "variable";
+
+body, html{
+  line-height: 1.5;
+  font-family: 'PingFang SC', 'Microsoft YaHei','STHeitiSC-Light', 'Helvetica-Light', arial, sans-serif, 'Droid Sans Fallback';
+  // user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  background: $color-background;
+  height: 100%;  //防止有的页面抖动  让每个页面都显示滚动条
+}
+#app {
+  height: 100%;
+}
