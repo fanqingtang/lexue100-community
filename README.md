@@ -3,11 +3,10 @@
 ===========================
 
 
-
+## 预览 (https://www.lexue100.com/mk.php?do=xlsq#/)
 
 ## 用到的技术站
 ### **vue、vue-router、vuex、axios 、vue-awesome-swiper（轮播图插件）、vue-cropper（裁剪插件）**
-
 
 
 ## 第一周开发内容
@@ -534,6 +533,3 @@ export default {
    总的来说这次开发小乐社区就是踩坑的过程。通过这次开发自己要吸取教训，把遇到问题都一一记录。避免下次再犯同样的问题。
 3. 多参考别人的代码，多学习别人的开发技巧，勤思考。
 4. 多提高自身js和css以及vue的实力，通过这次开发也渐渐明白自身对vue的熟练度也还不够。  
-
-
-## 网址预览链接为 (https://www.lexue100.com/mk.php?do=xlsq#/)
